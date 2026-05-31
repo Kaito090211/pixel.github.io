@@ -1,1 +1,3 @@
-# Kaito090211.github.io
+theme: jekyll-theme-minimal
+title: Pixel homepage
+description: Get an Exclusive ideas for your handset!
